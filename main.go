@@ -9,4 +9,5 @@ func main() {
 	fmt.Println("looks like VS Code has been setup")
 	fmt.Println("testing vs git")
 	fmt.Printf("not yet")
+	fmt.Println("now!")
 }
